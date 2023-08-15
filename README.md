@@ -17,7 +17,7 @@
 - - -
 
 * Откройте Visual Studio Code.
-* Перейдите в раздел extensions `Shift+Cmd+X` и наберите в поиске `pack-essentials`, `pack-html` или `pack-git`. 
+* Перейдите в раздел extensions `Shift+Cmd+X` и наберите в поиске `pack-essentials`, `pack-html` или `pack-git-basic`. 
 * Установите нужное и занимайтесь программированием.
 
 ###Как использовать проект?

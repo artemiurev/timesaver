@@ -1,5 +1,5 @@
 {
-  "name": "pack-git",
+  "name": "pack-git-basic",
   "displayName": "Расширения для работы с Git",
   "description": "Расширения для работы с Git в VS Code",
   "publisher": "artemiurev",

@@ -13,7 +13,7 @@
 - - -
 
 * Откройте Visual Studio Code.
-* Перейдите в раздел extensions `Shift+Cmd+X` и наберите в поиске `pack-git`. 
+* Перейдите в раздел extensions `Shift+Cmd+X` и наберите в поиске `pack-git-basic`. 
 * Установите и занимайтесь программированием.
 
 
