@@ -1,0 +1,34 @@
+{
+  "name": "pack-git",
+  "displayName": "Расширения для работы с Git",
+  "description": "Расширения для работы с Git в VS Code",
+  "publisher": "artemiurev",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "icon": "icon.png",
+  "author": {
+    "name": "Artem Iurev"
+  },
+  "repository": {
+    "url": "https://github.com/artemiurev/timesaver"
+  },
+  "license":"MIT",
+  "scripts": {
+    "build": "vsce package"
+  },
+  "keywords": [
+    "Git",
+    "Extentions",
+    "Pack"
+  ],
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "mhutchie.git-graph",
+    "donjayamanne.githistory",
+    "eamodio.gitlens"
+  ]
+}

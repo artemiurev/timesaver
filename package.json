@@ -1,0 +1,22 @@
+{
+  "name": "timesaver",
+  "private": true,
+  "repository": {
+    "url": "https://github.com/artemiurev/timesaver"
+  },
+  "license":"MIT",
+  "scripts": {
+    "clean": "rimraf extensions/*/*.vsix",
+    "build": "npm run clean && npx lerna run build --parallel"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "@vscode/vsce":"^2.20.1",
+    "yo":"^4.3.1",
+    "lerna": "^7.1.5",
+    "rimraf": "^5.0.1"
+  }
+}

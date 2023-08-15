@@ -1,0 +1,38 @@
+{
+  "name": "pack-essential",
+  "displayName": "Необходимые расширения VS Code",
+  "description": "Необходимые расширения для VS Code",
+  "publisher": "artemiurev",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "icon": "icon.png",
+  "author": {
+    "name": "Artem Iurev"
+  },
+  "repository": {
+    "url": "https://github.com/artemiurev/timesaver"
+  },
+  "license":"MIT",
+  "scripts": {
+    "build": "vsce package"
+  },
+  "keywords": [
+    "Essential",
+    "Extentions",
+    "Pack"
+  ],
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "ritwickdey.LiveServer", 
+    "esbenp.prettier-vscode",
+    "dzhavat.bracket-pair-toggler",
+    "vscode-icons-team.vscode-icons",
+    "EditorConfig.EditorConfig", 
+    "Equinusocio.vsc-community-material-theme",
+    "shd101wyy.markdown-preview-enhanced"
+  ]
+}
