@@ -3,7 +3,7 @@
   "displayName": "Необходимые расширения VS Code",
   "description": "Необходимые расширения для VS Code",
   "publisher": "artemiurev",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "engines": {
     "vscode": "^1.79.0"
   },

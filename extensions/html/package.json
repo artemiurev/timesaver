@@ -3,7 +3,7 @@
   "displayName": "Расширения для работы с HTML",
   "description": "Основные расширения для работы с HTML в VS Code",
   "publisher": "artemiurev",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "engines": {
     "vscode": "^1.79.0"
   },
