@@ -10,7 +10,7 @@
 - - -
 
 * Откройте Visual Studio Code.
-* Перейдите в раздел extensions `Shift+Cmd+X` и наберите в поиске `pack-essentials`. 
+* Перейдите в раздел extensions `Shift+Cmd+X` и наберите в поиске `pack-essential`. 
 * Установите и занимайтесь программированием.
 
 ### Где найти еще больше расширений?
