@@ -3,7 +3,7 @@
   "displayName": "Необходимые расширения VS Code",
   "description": "Необходимые расширения для VS Code",
   "publisher": "artemiurev",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.79.0"
   },
@@ -14,7 +14,7 @@
   "repository": {
     "url": "https://github.com/artemiurev/timesaver"
   },
-  "license":"MIT",
+  "license": "MIT",
   "scripts": {
     "build": "vsce package"
   },
@@ -26,12 +26,12 @@
   "categories": [
     "Extension Packs"
   ],
-  "extensionPack": [ 
-    "ritwickdey.LiveServer", 
+  "extensionPack": [
+    "ritwickdey.LiveServer",
     "esbenp.prettier-vscode",
     "dzhavat.bracket-pair-toggler",
     "vscode-icons-team.vscode-icons",
-    "EditorConfig.EditorConfig", 
+    "EditorConfig.EditorConfig",
     "Equinusocio.vsc-community-material-theme",
     "shd101wyy.markdown-preview-enhanced"
   ]

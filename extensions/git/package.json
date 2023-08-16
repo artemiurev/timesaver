@@ -3,7 +3,7 @@
   "displayName": "Расширения для работы с Git",
   "description": "Расширения для работы с Git в VS Code",
   "publisher": "artemiurev",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.79.0"
   },
@@ -14,7 +14,7 @@
   "repository": {
     "url": "https://github.com/artemiurev/timesaver"
   },
-  "license":"MIT",
+  "license": "MIT",
   "scripts": {
     "build": "vsce package"
   },
@@ -26,7 +26,7 @@
   "categories": [
     "Extension Packs"
   ],
-  "extensionPack": [ 
+  "extensionPack": [
     "mhutchie.git-graph",
     "donjayamanne.githistory",
     "eamodio.gitlens"

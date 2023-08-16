@@ -6,3 +6,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [1.0.0] - 2023-08-16
 - Initial release
+
+## [1.0.1] - 2023-08-16
+- Исправления в разметке README.md

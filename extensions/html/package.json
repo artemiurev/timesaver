@@ -3,7 +3,7 @@
   "displayName": "Расширения для работы с HTML",
   "description": "Основные расширения для работы с HTML в VS Code",
   "publisher": "artemiurev",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.79.0"
   },
@@ -14,7 +14,7 @@
   "repository": {
     "url": "https://github.com/artemiurev/timesaver"
   },
-  "license":"MIT",
+  "license": "MIT",
   "scripts": {
     "build": "vsce package"
   },
@@ -26,10 +26,10 @@
   "categories": [
     "Extension Packs"
   ],
-  "extensionPack": [ 
-    "formulahendry.auto-close-tag", 
+  "extensionPack": [
+    "formulahendry.auto-close-tag",
     "formulahendry.auto-rename-tag",
-    "ritwickdey.LiveServer", 
+    "ritwickdey.LiveServer",
     "esbenp.prettier-vscode",
     "ecmel.vscode-html-css",
     "pranaygp.vscode-css-peek",
